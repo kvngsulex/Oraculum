@@ -3,7 +3,6 @@
 Thumbs.db
 
 # Editor
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -12,3 +11,8 @@ Thumbs.db
 scripts/wasm-hashes.json
 scripts/sdk-compat-*.md
 target/coverage/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
+node_modules
