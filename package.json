@@ -1,1 +1,8 @@
-{"name":"dashboard-a51y-fix","version":"1.0.0","scripts":{"start":"node server.js"},"icense":"MIT"}
+{
+  "name": "dashboard-a51y-fix",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node init && node server.js"
+  },
+  "icense": "MIT"
+}
